@@ -1,8 +1,5 @@
-Certainly! Here's a detailed roadmap structured like a syllabus to cover the topics from basic to advanced levels in the technologies you mentioned: Groovy, Grails, Gradle, MongoDB, ActiveMQ, Redis, and Postman.
-
-### 1. Groovy
-
-**Beginner Level:**
+1. Groovy
+Beginner Level:
 - Introduction to Groovy syntax and basic concepts:
   - Variables, data types, operators
   - Control structures (if-else, loops)
@@ -14,7 +11,7 @@ Certainly! Here's a detailed roadmap structured like a syllabus to cover the top
   - Classes, objects, constructors
   - Inheritance, polymorphism
 
-**Intermediate Level:**
+Intermediate Level:
 - Advanced Groovy features:
   - Metaprogramming
   - ExpandoMetaClass and method missing
@@ -24,7 +21,7 @@ Certainly! Here's a detailed roadmap structured like a syllabus to cover the top
 - Testing in Groovy:
   - Using Spock for unit testing
 
-**Advanced Level:**
+Advanced Level:
 - Groovy AST transformations:
   - Custom annotations
   - AST macros
@@ -32,9 +29,9 @@ Certainly! Here's a detailed roadmap structured like a syllabus to cover the top
   - Interoperability and best practices
 - Performance tuning and optimization in Groovy
 
-### 2. Grails
+2. Grails
 
-**Beginner Level:**
+Beginner Level:
 - Introduction to Grails framework:
   - MVC architecture
   - Grails command-line interface (CLI)
@@ -42,7 +39,7 @@ Certainly! Here's a detailed roadmap structured like a syllabus to cover the top
   - Controllers, views, and models
   - GORM (Grails Object Relational Mapping)
 
-**Intermediate Level:**
+Intermediate Level:
 - Advanced Grails concepts:
   - Services and dependency injection
   - Interceptors and filters
@@ -112,14 +109,14 @@ Certainly! Here's a detailed roadmap structured like a syllabus to cover the top
   - Topics, durable subscriptions
   - High availability and clustering in ActiveMQ
 
-### 6. Redis
+6. Redis
 
-**Beginner Level:**
+Beginner Level:                                      Done
 - Introduction to Redis:                             Done  
   - Key-value store basics                           Done
   - Redis data types (strings, hashes, lists)        Done ( https://youtu.be/64VG179N4no?feature=shared )
 
-**Intermediate Level:**
+Intermediate Level:
 - Redis persistence and durability:
   - RDB and AOF persistence mechanisms               Done ( https://redis.io/docs/latest/operate/oss_and_stack/management/persistence/ )
   - Replication and high availability
