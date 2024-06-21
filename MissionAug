@@ -115,13 +115,13 @@ Certainly! Here's a detailed roadmap structured like a syllabus to cover the top
 ### 6. Redis
 
 **Beginner Level:**
-- Introduction to Redis:
-  - Key-value store basics
-  - Redis data types (strings, hashes, lists)
+- Introduction to Redis:                             Done  
+  - Key-value store basics                           Done
+  - Redis data types (strings, hashes, lists)        Done
 
 **Intermediate Level:**
 - Redis persistence and durability:
-  - RDB and AOF persistence mechanisms
+  - RDB and AOF persistence mechanisms      
   - Replication and high availability
 
 **Advanced Level:**
