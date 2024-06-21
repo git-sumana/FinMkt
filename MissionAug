@@ -121,7 +121,7 @@ Intermediate Level:
   - RDB and AOF persistence mechanisms               Done ( https://redis.io/docs/latest/operate/oss_and_stack/management/persistence/ )
   - Replication and high availability
 
-**Advanced Level:**
+Advanced Level:
 - Redis clustering and partitioning:
   - Scaling Redis horizontally
   - Cluster management and configuration tuning
