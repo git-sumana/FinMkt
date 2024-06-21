@@ -23,5 +23,10 @@ Resolved NoSQLBooster issue regarding missed dbs
 Installed apache artemis, mongo_v6 (files)
 
 20/06/2024
-Artemis issue not resolved yet
+pending: Artemis issue not resolved yet
 Redis Sets done
+All issues resolved; NoSQLBooster issue reoccured and solved
+
+21/06/2024
+Done wth Redis
+Task: go through the services that are mentioned in the documentation and find out the difference
