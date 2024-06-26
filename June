@@ -41,9 +41,8 @@ All the prerequisites are running well.
 
 25/06/2024
 Issue with artemis
-Starting with EmailController in MicrServices
+Starting with EmailController in MicrSoervices
 
 26/06/2024
-Starting with the SpringBoot from the evening
-haven't done with EmailController
-
+Issues resolved in MSC
+Done with the EmailController
