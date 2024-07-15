@@ -21,14 +21,6 @@ Intermediate Level:
 - Testing in Groovy:
   - Using Spock for unit testing
 
-Advanced Level:
-- Groovy AST transformations:
-  - Custom annotations
-  - AST macros
-- Integrating Groovy with Java:
-  - Interoperability and best practices
-- Performance tuning and optimization in Groovy
-
 2. Grails
 
 Beginner Level:
@@ -48,14 +40,6 @@ Intermediate Level:
   - Using Grails converters
   - Handling JSON and XML responses
 
-**Advanced Level:**
-- Grails performance optimization:
-  - Caching strategies
-  - Database tuning and profiling
-- Security in Grails applications:
-  - Authentication and authorization
-  - Securing APIs and UIs
-
 ### 3. Gradle
 
 **Beginner Level:**
@@ -70,12 +54,6 @@ Intermediate Level:
 - Multi-project builds and configurations:
   - Working with subprojects and dependencies
 
-**Advanced Level:**
-- Gradle performance optimization:
-  - Incremental builds and parallel execution
-- Continuous integration with Gradle:
-  - Integrating with CI/CD pipelines (e.g., Jenkins, Travis CI)
-
 ### 4. MongoDB
 
 **Beginner Level:**
@@ -88,11 +66,6 @@ Intermediate Level:
   - Schema design best practices
   - Indexing and query optimization
 
-**Advanced Level:**
-- MongoDB aggregation framework:
-  - Pipeline stages and operators
-  - Performance tuning and scaling strategies
-
 ### 5. ActiveMQ
 
 **Beginner Level:**
@@ -103,11 +76,6 @@ Intermediate Level:
 - ActiveMQ setup and configuration:
   - Installing and configuring ActiveMQ
   - Understanding broker configuration options
-
-**Advanced Level:**
-- Advanced messaging patterns:
-  - Topics, durable subscriptions
-  - High availability and clustering in ActiveMQ
 
 6. Redis
 
@@ -121,11 +89,6 @@ Intermediate Level:
   - RDB and AOF persistence mechanisms               Done ( https://redis.io/docs/latest/operate/oss_and_stack/management/persistence/ )
   - Replication and high availability
 
-Advanced Level:
-- Redis clustering and partitioning:
-  - Scaling Redis horizontally
-  - Cluster management and configuration tuning
-
 ### 7. Postman
 
 **Beginner Level:**
@@ -135,10 +98,5 @@ Advanced Level:
 
 **Intermediate Level:**
 - API testing with Postman:
-  - Writing and running tests
-  - Using variables and environments
-
-**Advanced Level:**
-- Automation and monitoring with Postman:
-  - Running collections in CI/CD pipelines
-  - Performance testing and monitoring APIs
+  - Writing and running tests            (done)
+  - Using variables and environments     (done)
