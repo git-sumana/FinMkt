@@ -105,3 +105,34 @@ Intermediate Level:
 
 Limit 24 days (daily atleast an hour)::
 Ignoring the exact ones, AUG 15 is the deadline to meet these things;
+
+1. Foundations of Java
+Why: Since Groovy is based on Java, a solid understanding of Java fundamentals will benefit you.
+Topics to Cover: OOP concepts, collections, exceptions, streams, and basic design patterns.
+2. Groovy
+Why: Groovy will enhance your ability to work with Spring Boot.
+Topics to Cover: Syntax, closures, collections, and GORM.
+3. Spring Boot
+Why: This is a key framework in your stack for building applications.
+Topics to Cover: Dependency injection, REST APIs, security, and data access with Spring Data.
+4. Postman
+Why: Essential for testing your APIs.
+Topics to Cover: Creating requests, testing APIs, using collections, and automated testing with Newman.
+5. ActiveMQ
+Why: Understand messaging for decoupled architecture.
+Topics to Cover: Setting up ActiveMQ, working with queues and topics, and integrating with Spring Boot.
+6. MongoDB
+Why: A NoSQL database that works well with your applications.
+Topics to Cover: CRUD operations, data modeling, indexing, and aggregation.
+7. Redis
+Why: Important for caching and performance optimization.
+Topics to Cover: Basic commands, data structures, and using Redis with Spring Boot.
+8. Elasticsearch
+Why: Useful for search functionality and analytics.
+Topics to Cover: Indexing, querying, and integrating with your applications.
+9. Best Practices
+Why: To become a well-rounded developer.
+Topics to Cover: Code reviews, design patterns, API design principles (RESTful best practices), testing (unit and integration tests), and documentation.
+10. Projects and Collaboration
+Why: Hands-on experience is crucial.
+Action: Build small projects integrating your tech stack, contribute to open source, or collaborate on internal projects.
